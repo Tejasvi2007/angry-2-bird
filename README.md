@@ -1,1 +1,2 @@
-# angry-2-bird
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
